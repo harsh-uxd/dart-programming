@@ -1,5 +1,5 @@
 void main() {
-  // This is my first application.
+  // this is my first application
 
   print("Hello Wrold"); // printing hello world...
 
@@ -9,6 +9,6 @@ void main() {
 
   print(true); // printing boolean value...
 
-  /* This is a 
-        multi-line comment. */
+  /* this is a 
+        multi-line comment */
 }
