@@ -12,6 +12,8 @@ void main() {
   // const keyword
   const PI = 3.14; // value can't be changed
   const double gravity = 9.8;
+  print(PI);
+  print(gravity);
 
   final v1 =
       Epic(); // final is initialised during runtime hence it is possible to innvocate a value from a method
