@@ -6,6 +6,8 @@ void main() {
   final cityName = "Mumbai"; // value can't be changed
   // cityName = "Delhi"; (can't be assigned)
   final String countryName = "India";
+  print(cityName);
+  print(countryName);
 
   // const keyword
   const PI = 3.14; // value can't be changed
