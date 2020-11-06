@@ -1,5 +1,5 @@
 void main() {
-  // do-while loop
+  // do-while loop - exit control loop
   var i = 1;
   print("EVEN NUMBER FROM 1-10:");
   do {
