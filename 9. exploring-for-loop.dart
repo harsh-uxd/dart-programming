@@ -7,8 +7,7 @@ void main() {
   }
 
   // for ..in loop
-
-  List planetList = ["Mecury", "Venus", "Earth", "Mars"];
+  List planetList = ["Mercury", "Venus", "Earth", "Mars"];
 
   for (String planet in planetList) {
     print(planet);
