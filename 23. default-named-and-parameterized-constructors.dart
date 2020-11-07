@@ -42,6 +42,9 @@ class Student {
   int id = -1; // instance or field varibale, default value is -1
   String name; // instance or field variable, default value is null
 
+  // constructors do not have a return type whereas functions do
+  // Student() {} - default constructor
+
   Student(this.id, this.name); // parameterized constructor
 
   Student.myConstructor() {
