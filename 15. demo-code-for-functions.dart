@@ -6,7 +6,6 @@
 
 void main() {
   findPerimeter(4, 2);
-
   int rectArea = getArea(4, 2);
   print("Area of Rectangle : $rectArea");
 }
